@@ -1,11 +1,11 @@
 ### Hi there, I'm Hatem - aka [CodeNKoffee][website] 👋
 
-[![Website](https://img.shields.io/website?label=CodeNKoffee.com&style=for-the-badge&url=https%3A%2F%2FCodeNKoffee.com)](https://www.fiverr.com/solifuse?public_mode=true)
+[![Website](https://img.shields.io/website?label=CodeNKoffee.com&style=for-the-badge&url=https%3A%2F%2FCodeNKoffee.com)](https://www.fiverr.com/solifuse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamsolifuse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamsolifuse)
 
 ## I'm a Student, Music Producer, Developer, and Photographer!!
 
-- 🔭 Launching my Web Development Services soon! [https://www.fiverr.com/solifuse?public_mode=true][website]!
+- 🔭 Launching my Web Development Services soon! [https://www.fiverr.com/solifuse][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -48,7 +48,7 @@
 
 </details>
 
-[website]: https://www.fiverr.com/solifuse?public_mode=true
+[website]: https://www.fiverr.com/solifuse
 [twitter]: https://twitter.com/iamsolifuse
 [youtube]: https://www.youtube.com/channel/UCXMxvr1Ln_cvVOKzP5wBluQ
 [stackoverflow]: https://stackoverflow.com/users/17740821/codenkoffee
