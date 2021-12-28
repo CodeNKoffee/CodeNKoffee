@@ -44,6 +44,12 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="CodeNKoffee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeNKoffee&show_icons=true&hide_border=true"
+
+
+
 [website]: https://www.fiverr.com/solifuse
 [twitter]: https://twitter.com/iamsolifuse
 [youtube]: https://www.youtube.com/channel/UCXMxvr1Ln_cvVOKzP5wBluQ
