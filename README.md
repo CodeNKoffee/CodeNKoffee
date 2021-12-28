@@ -45,6 +45,10 @@
 
 </details>
 
+### 🚨 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://www.fiverr.com/solifuse
 [twitter]: https://twitter.com/iamsolifuse
 [youtube]: https://www.youtube.com/channel/UCXMxvr1Ln_cvVOKzP5wBluQ
