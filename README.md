@@ -48,6 +48,11 @@
 
 <img align="left" alt="CodeNKoffee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeNKoffee&show_icons=true&hide_border=true" />
 
+---
+### Top Languages Card
+api/top-langs?username=anuraghazra
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeNKoffee)](https://github.com/CodeNKoffee/github-readme-stats)
+
 
 
 [website]: https://www.fiverr.com/solifuse
