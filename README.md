@@ -39,9 +39,6 @@
 
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="CodeNKoffe's GitHub Stats" src="https://github-readme-stats.codenkoffee.vercel.app/api?username=CodeNKoffee&show_icons=true&hide_border=true" />
