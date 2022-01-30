@@ -22,8 +22,9 @@ I am senior high school student and I want to study computer science as a major 
 [<img align="left" alt="CodeNKoffe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="CodeNKoffe | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="CodeNKoffe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="CodeNKoffe | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
-<br />
+---
 
 ### Languages and Tools:
 
