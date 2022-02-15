@@ -12,8 +12,7 @@
 - ⚡ Fun fact: I love to go MTB shredding
 
 ### About me:
-I am Hatem but my friends call me Solifuse, I am an 18-year-old Egyptian passionate about exploring the world and consistently learning new stuff.
-I am senior high school student and I want to study computer science as a major this Winter 2022. However, unlike most people, I see myself landing a job in the "field" ehhhm...the thing I am passionate about the most and thats coding. I stringly believe that with my will, passion and consistency it's possible to land a contract job before even enrolling to university.
+I am Hatem but my friends call me Solifuse, a front-end software engineer & graphics designer with a strong passion for building responsive and performant web applications with great user experiences that positively impact the world. Using my graphics design and web development skills combined, I can create an appealing UI that promotes the communication of ideas to your audience as I'm also a photographer specializing in street and landscape photography.
 
 ### Connect with me:
 
