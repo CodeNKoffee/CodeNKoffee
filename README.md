@@ -1,63 +1,61 @@
-### Hi there, I'm Hatem - aka [Solifuse][website] 👋
-
-[![Website](https://img.shields.io/website?label=CodeNKoffee.com&style=for-the-badge&url=https%3A%2F%2FCodeNKoffee.com)](https://www.fiverr.com/solifuse)
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamsolifuse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/iamsolifuse)
-
-## I'm a Student, Web Designer/Developer, Photographer and Music Producer!!
-
-- 🔭 Launching my Web Development Services soon! [https://www.fiverr.com/solifuse][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Land a 6-figure job doing what I love
-- ⚡ Fun fact: I love to go MTB shredding
-
-### About me:
-I am Hatem but my friends call me Solifuse, a front-end software engineer & graphics designer with a strong passion for building responsive and performant web applications with great user experiences that positively impact the world. Using my graphics design and web development skills combined, I can create an appealing UI that promotes the communication of ideas to your audience as I'm also a photographer specializing in street and landscape photography.
-
-### Connect with me:
-
-[<img align="left" alt="fiverr.com/solifuse" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="CodeNKoffe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="CodeNKoffe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="CodeNKoffe | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="CodeNKoffe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="CodeNKoffe | Tiktok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+<h1 align="center">Hi 👋, I'm Hatem</h1>
+<h3 align="center">A passionate Frontend Software Engineer from Egypt</h3>
 
 ---
 
-### Languages and Tools:
+<p align="left"><a href="https://twitter.com/iamsolifuse" target="blank"><img src="https://img.shields.io/twitter/follow/btsp_dev?logo=twitter&style=for-the-badge" alt="Hatem Soliman"/></a></p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]web
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+- 🔭 I’m currently working on [**_(Certain) University website remake_**](https://github.com/CodeNKoffee)
 
+- 🌱 I’m currently learning **C, Python, ReactJS, TypeScript,**
 
----
+- 👯 I’m looking to collaborate on [News Aggregator](https://github.com/CodeNKoffee)
 
-<!--END_SECTION:activity-->
+- 🤝 I’m looking for help with [Netflix Clone](https://github.com/CodeNKoffee)
 
+- 👨‍💻 All of my projects are available at [coming soon](coming soon)
 
-### 🚨 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 💬 Ask me about **Anything**
+
+- 📫 How to reach me **Solifuse#9652**
+
+- ⚡ Fun fact **I hate SASS :>**
 
 ---
 
-<img align="left" alt="CodeNKoffee's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeNKoffee&show_icons=true&hide_border=true" />
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/h4temsoliman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="coming soon" height="30" width="40" /></a>
+<a href="https://twitter.com/iamsolifuse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="btsp_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/solifuse#9652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="btsp#7935" height="30" width="40" /></a>
+</p>
 
 ---
 
-[website]: https://www.fiverr.com/solifuse
-[twitter]: https://twitter.com/iamsolifuse
-[youtube]: https://www.youtube.com/channel/UCWHz11r3eAezkmxgt9eQhKQ
-[stackoverflow]: https://stackoverflow.com/users/17740821/codenkoffee
-[instagram - Solifuse]: https://www.instagram.com/solifuse/
-[instagram - CodeNKoffee]: https://www.instagram.com/codenkoffee/
-[tiktok - Solifuse]: https://www.tiktok.com/@iamsolifuse
-[tiktok - CodeNKoffee]: https://www.tiktok.com/@codenkoffee
+---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a></p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeNKoffee&show_icons=true&locale=en&layout=compact" alt="CodeNKoffee" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodeNKoffee&show_icons=true&locale=en" alt="CodeNKoffee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeNKoffee&" alt="CodeNKoffee" /></p>
