@@ -3,7 +3,7 @@
 
 ---
 
-<p align="left"><a href="https://twitter.com/iamsolifuse" target="blank"><img src="https://img.shields.io/twitter/follow/btsp_dev?logo=twitter&style=for-the-badge" alt="Hatem Soliman"/></a></p>
+<p align="left"><a href="https://twitter.com/iamsolifuse" target="blank"><img src="https://img.shields.io/twitter/follow/iiamsolifuse?logo=twitter&style=for-the-badge" alt="Hatem Soliman"/></a></p>
 
 - 🔭 I’m currently working on [**_(Certain) University website remake_**](https://github.com/CodeNKoffee)
 
