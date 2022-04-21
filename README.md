@@ -1,3 +1,5 @@
+![](https://hit.yhype.me/github/profile?user_id=72696414)
+![](https://komarev.com/ghpvc/?username=peterhanania)
 <h1 align="center">Hi 👋, I'm Hatem</h1>
 <h3 align="center">A passionate Frontend Software Engineer from Egypt</h3>
 
