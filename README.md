@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**_(Certain) University website remake_**](https://github.com/CodeNKoffee)
 
-- 🌱 I’m currently learning **C, Python, ReactJS, Java,**
+- 🌱 I’m currently learning **ReactJS, Firebase, NextJS, TypeScript, Redux, Java, Swift**
 
 - 👯 I’m looking to collaborate on [News Aggregator](https://github.com/CodeNKoffee)
 
@@ -52,7 +52,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redux/redux-icon.svg" alt="redux" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
 </p>
 
 ---
