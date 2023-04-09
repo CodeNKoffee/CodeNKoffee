@@ -55,7 +55,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg" alt="swift" width="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="nextjs" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webpg" alt="nextjs" width="40" height="40"/></a>
 </p>
 
 ---
