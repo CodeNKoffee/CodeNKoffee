@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [**_Full SaaS (Stay Queued..)_**](https://github.com/CodeNKoffee)
 
-- 🌱 I’m currently learning **ReactJS, Firebase, NextJS, TypeScript, Redux, Java, Swift**
+- 🌱 I’m currently learning **ReactJS, Firebase, NextJS, TypeScript, Redux, Java, Swift, React Native**
 
 - 👯 I’m looking to collaborate on [News Aggregator](https://github.com/CodeNKoffee)
 
