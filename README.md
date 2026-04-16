@@ -15,9 +15,8 @@
 <h3 align="center">🤝 Trusted By</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Udacity-01B3E3?style=for-the-badge&logo=udacity&logoColor=white" alt="Udacity" />
-  <img src="https://img.shields.io/badge/Trybytes.ai-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Trybytes" />
-  <img src="https://img.shields.io/badge/Gates_of_Egypt-D4AF37?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Gates of Egypt" />
-  <img src="https://img.shields.io/badge/Cappross-FF0000?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Cappross" />
+  <img src="https://img.shields.io/badge/Bytes AI-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="trybytes.ai" />
+  <img src="https://img.shields.io/badge/CapprossBins-FF0000?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="CapprossBins" />
 </p>
 
 ---
