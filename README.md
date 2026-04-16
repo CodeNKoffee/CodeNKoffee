@@ -45,7 +45,7 @@
 <a href="https://twitter.com/h4temsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h4temsoliman" height="30" width="40" /></a>
 <a href="https://instagram.com/h4temsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h4temsoliman" height="30" width="40" /></a>
 <a href="https://discord.gg/solifuse#9652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@h4temsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tiktok.svg" alt="h4temsoliman" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@h4temsoliman" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/white" alt="h4temsoliman" height="25" width="40" /></a>
 </p>
 
 <h3 align="left">Support My Work:</h3>
