@@ -157,7 +157,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 ## 💬 Let's Interface
 
 *   **Mentorship Inquiries:** If you are seeking high-intensity engineering guidance, apply at **[join.hatemsoliman.dev](https://join.hatemsoliman.dev)** *(Currently optimization-tailored for Arabic speakers; English applications available via DM).*
-*   **Direct Wire:** **hatemthedev@gmail.com** or Discord at **Solifuse#9652**
+*   **Direct Wire:** **[hatemthedev@gmail.com](mailto:hatemthedev@gmail.com)** or **[Telegram](https://t.me/h4temsoliman)**
 *   **Sponsorships & Ecosystem Support:** Buy me a coffee to keep the open-source compilation lines fully fueled.
 
 <p align="left">
