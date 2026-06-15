@@ -112,6 +112,22 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeNKoffee&theme=vision-friendly-dark" alt="Hatem's Commit Streak" />
 </p>
 
+<h3 align="left">Architect's Toolkit:</h3>
+
+<p align="left">
+
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,redux,firebase,supabase,postgres" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,rust,swift" />
+
+  <br><br>
+
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,ps,ai,apple" />
+
+</p>
+
 ---
 
 ## 💡 Outlier Facts & Philosophies
