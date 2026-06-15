@@ -57,7 +57,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 *   **[Gates of Egypt](https://www.linkedin.com/company/gates-of-egypt)**: Replicating Dubai's digital tourism layer for Egypt. Incorporates unified bookings, AI-driven travel planning, real-time eSIM purchases, and web-native VR landmark tours.
 *   **[Ghost Outbound Systems](https://sdr.hatemsoliman.dev)**: Sovereign AI-powered B2B outbound infrastructure running localized **70B parameter models** over zero-dependency automation tunnels to surface clean prospects out of noise.
 *   **[CapprossBins](https://capprossbins.cappross.com)**: A high-leverage credit-scoring and data binning platform built alongside my father to challenge enterprise financial modeling suites for independent data scientists and solo lenders.
-*   **ERC Sync Studio - Volunteer Edition:** Engineered a high-end synchronization suite leveraging Claude Code and Antigravity to automate manual data entry. Designed templated workflows that completely bypassed redundant scheduling bottlenecks.
+*   **ERC Sync Studio - Volunteer Edition:** Engineered a high-end synchronization suite leveraging Claude Code and Antigravity for the Egyptian Red Crescent to automate manual data entry. Designed templated workflows that completely bypassed redundant scheduling bottlenecks.
 
 ### 📦 Developer Tooling & Libraries
 *   **[PackShip](https://packship.dev)**: A zero-dependency NPM package lifecycle CLI framework automating multi-registry publication workflows. Widely adopted across EU developer teams and production VS Code extensions.
