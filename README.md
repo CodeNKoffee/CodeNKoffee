@@ -35,7 +35,7 @@
 🧠 AI Trainer @ micro1                       → Fine-tuning frontier LLMs on reasoning & frontend codebases
 🎓 Senior @ German University in Cairo       → Computer Science & Engineering (Class of 2027)
 📚 B.Sc. Researcher                          → Hierarchical Task Network (HTN) Planning & Task Architectures
-🏎️ Co-Founder @ RAVEN GP                      → Home-grown autonomous racing team at GUC
+🏎️ Co-Founder @ RAVEN GP                     → Home-grown autonomous racing team at GUC
 ```
 
 ---
@@ -54,8 +54,8 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 
 ### 🚦 Core Startups & Enterprise Architectures
 *   **[Tawabiry](https://linkedin.com/company/tawabiry)**: An enterprise-grade, high-concurrency virtual queue management system replacing legacy hardware with intelligent, logic-first cloud ecosystems. Backed by **EG Data**.
-*   **[Gates of Egypt](https://hatemsoliman.dev)**: Replicating Dubai's digital tourism layer for Egypt. Incorporates unified bookings, AI-driven travel planning, real-time eSIM purchases, and web-native VR landmark tours.
-*   **[Ghost Outbound Systems](https://hatemsoliman.dev)**: Sovereign AI-powered B2B outbound infrastructure running localized **70B parameter models** over zero-dependency automation tunnels to surface clean prospects out of noise.
+*   **[Gates of Egypt](https://www.linkedin.com/company/gates-of-egypt)**: Replicating Dubai's digital tourism layer for Egypt. Incorporates unified bookings, AI-driven travel planning, real-time eSIM purchases, and web-native VR landmark tours.
+*   **[Ghost Outbound Systems](https://sdr.hatemsoliman.dev)**: Sovereign AI-powered B2B outbound infrastructure running localized **70B parameter models** over zero-dependency automation tunnels to surface clean prospects out of noise.
 *   **[CapprossBins](https://capprossbins.cappross.com)**: A high-leverage credit-scoring and data binning platform built alongside my father to challenge enterprise financial modeling suites for independent data scientists and solo lenders.
 
 ### 📦 Developer Tooling & Libraries
@@ -65,7 +65,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 
 ### 🧬 Applied Engineering Experiments
 *   **[Project Kumquat](https://github.com/CodeNKoffee/project-kumquat)**: An open-source veterinary science education roadmap engineered for field animal rescuers to close the information density gap without full clinical pathways. *Built in memory of a small ginger kitten.*
-*   **[Lingotype](https://hatemsoliman.dev)**: A language-discovery system leveraging lightweight cognitive predictive modeling to isolate patterns in native user choices and map them to linguistic structures.
+*   **[Lingotype](https://lingotype.hatemsoliman.dev)**: A language-discovery system leveraging lightweight cognitive predictive modeling to isolate patterns in native user choices and map them to linguistic structures.
 *   **EGX API Bridge**: A headless, lightweight scraping and notification pipeline providing real-time data streaming out of the Egyptian Stock Exchange in the absence of public endpoints.
 
 ---
@@ -76,10 +76,10 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 | :--- | :--- | :--- |
 | **Full-Stack Systems** | Early founding engineer roles, scalable architecture design, serverless environments, state machines. | `TypeScript`, `Next.js`, `Node.js`, `PostgreSQL`, `Supabase`, `Go`, `Rust` |
 | **Autonomous Systems** | Co-founded **RAVEN GP**. Placed 3rd in Europe at the **IEEE Roboracer 2025** in Romania. | `C++`, `Python`, `ROS2`, `Computer Vision`, `Hardware-in-the-loop` |
-| **AI Workflows & Agents** | Deep fine-tuning execution, advanced multi-agent orchestration, local LLM infrastructure. | `Claude Code`, `Codex`, `n8n`, `LangChain`, `Ollama`, `Prompt Engineering` |
+| **AI Workflows & Agents** | Deep fine-tuning execution, advanced multi-agent orchestration, local LLM infrastructure. | `Claude Code`, `Codex`, `n8n`, `Ollama`, `tixu.ai`, `Prompt Engineering` |
 | **Growth Operations** | Managed performance ad spend under elite media buyers, conversion rate optimization pipelines. | `Data Analytics`, `Funnel Architecture`, `Copywriting`, `B2B Scraping` |
 | **Education Architecture** | Curriculum Developer at **Timedoor**, external contractor for **Udacity** Gulf initiatives, university workshops. | `Technical Diplomacy`, `Public Speaking`, `Pedagogical Frameworks` |
-| **Humanitarian Logistics** | Field operations with the **Egyptian Red Crescent**, routing crisis relief shipments via land, sea, and air. | `Data Entry Coordination`, `Google Workspace`, `Resource Management` |
+| **Humanitarian Logistics** | Field operations with the **Egyptian Red Crescent**, routing crisis relief shipments via land, sea, and air. | `Data Entry Coordination`, `Google Workspace`, `Resource Management`, `Logistical Support`, `Tactical Ops` |
 
 ---
 
@@ -92,8 +92,8 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 
 ### 🗣️ Linguistic Footprint
 ```text
-🇺🇦 Arabic (Native)  |  🇬🇧 English (Native)      |  🇫🇷 French (Professional)
-🇩🇪 German (Conversational)   |  🇷🇴 Romanian (Functional)  |  🇷🇺 Russian (Basic)  |  🇹🇷 Turkish (Basic)
+🇪🇬 Arabic (Native)  |  🇬🇧 English (Native)      |  🇫🇷 French (Professional)
+🇩🇪 German (Conversational)   |  🇷🇴 Romanian (Basic)  |  🇷🇺 Russian (Basic)  |  🇹🇷 Turkish (Basic)
 ```
 
 ---
