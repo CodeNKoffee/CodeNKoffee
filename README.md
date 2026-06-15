@@ -67,6 +67,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 *   **[Project Kumquat](https://github.com/CodeNKoffee/project-kumquat)**: An open-source veterinary science education roadmap engineered for field animal rescuers to close the information density gap without full clinical pathways. *Built in memory of a small ginger kitten.*
 *   **[Lingotype](https://lingotype.hatemsoliman.dev)**: A language-discovery system leveraging lightweight cognitive predictive modeling to isolate patterns in native user choices and map them to linguistic structures.
 *   **[EGX API Bridge](https://halalpulse.netlify.app)**: A headless, lightweight scraping and notification pipeline providing real-time data streaming out of the Egyptian Stock Exchange in the absence of public endpoints.
+*   **[RAVEN GP](https://github.com/RAVEN-GP)**: Egypt's First Autonomous Constructor. Official Entrant: [Bosch Future Mobility Challenge 2026](https://boschfuturemobility.com/).
 
 ---
 
