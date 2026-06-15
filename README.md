@@ -53,7 +53,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 ## 🛠️ Production Deployments & Open Source
 
 ### 🚦 Core Startups & Enterprise Architectures
-*   **[Tawabiry](https://linkedin.com/company/tawabiry)**: An enterprise-grade, high-concurrency virtual queue management system replacing legacy hardware with intelligent, logic-first cloud ecosystems. Backed by **EG Data**.
+*   **[Tawabiry](https://www.tawabiry.com)**: An enterprise-grade, high-concurrency virtual queue management system replacing legacy hardware with intelligent, logic-first cloud ecosystems. Backed by **[EG Data](https://egdata.net/)**.
 *   **[Gates of Egypt](https://www.linkedin.com/company/gates-of-egypt)**: Replicating Dubai's digital tourism layer for Egypt. Incorporates unified bookings, AI-driven travel planning, real-time eSIM purchases, and web-native VR landmark tours.
 *   **[Ghost Outbound Systems](https://sdr.hatemsoliman.dev)**: Sovereign AI-powered B2B outbound infrastructure running localized **70B parameter models** over zero-dependency automation tunnels to surface clean prospects out of noise.
 *   **[CapprossBins](https://capprossbins.cappross.com)**: A high-leverage credit-scoring and data binning platform built alongside my father to challenge enterprise financial modeling suites for independent data scientists and solo lenders.
@@ -66,7 +66,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 ### 🧬 Applied Engineering Experiments
 *   **[Project Kumquat](https://github.com/CodeNKoffee/project-kumquat)**: An open-source veterinary science education roadmap engineered for field animal rescuers to close the information density gap without full clinical pathways. *Built in memory of a small ginger kitten.*
 *   **[Lingotype](https://lingotype.hatemsoliman.dev)**: A language-discovery system leveraging lightweight cognitive predictive modeling to isolate patterns in native user choices and map them to linguistic structures.
-*   **EGX API Bridge**: A headless, lightweight scraping and notification pipeline providing real-time data streaming out of the Egyptian Stock Exchange in the absence of public endpoints.
+*   **[EGX API Bridge](https://halalpulse.hatemsoliman.dev)**: A headless, lightweight scraping and notification pipeline providing real-time data streaming out of the Egyptian Stock Exchange in the absence of public endpoints.
 
 ---
 
@@ -134,6 +134,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
   <a href="https://twitter.com/h4temsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
   <a href="https://instagram.com/h4temsoliman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://www.tiktok.com/@h4temsoliman" target="blank"><img align="center" src="https://cdn.simpleicons.org/tiktok/white" alt="TikTok" height="25" width="40" /></a>
+  <a href="https://www.producthunt.com/@hatem_soliman" target="blank"><img align="center" src="https://cdn.simpleicons.org/producthunt/white" alt="Product Hunt" height="25" width="40" /></a>
 </p>
 
 <p align="left">
