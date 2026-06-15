@@ -61,7 +61,7 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 ### 📦 Developer Tooling & Libraries
 *   **[PackShip](https://packship.dev)**: A zero-dependency NPM package lifecycle CLI framework automating multi-registry publication workflows. Widely adopted across EU developer teams and production VS Code extensions.
 *   **[React-Framify](https://react-framify.hatemsoliman.dev)**: Highly customizable canvas device-frame components for sleek production asset generation and presentation layers.
-*   **[Polar Paradise](https://polarparadise.hatemsoliman.dev) & [Transylvanian Twilight](https://transylvanian-twlight.hatemsoliman.dev)**: Minimalist, high-contrast structural themes engineered for long-session development focus inside VS Code.
+*   **[Polar Paradise](https://polarparadise.hatemsoliman.dev) & [Transylvanian Twilight](https://transylvanian-twilight.hatemsoliman.dev)**: Minimalist, high-contrast structural themes engineered for long-session development focus inside VS Code.
 
 ### 🧬 Applied Engineering Experiments
 *   **[Project Kumquat](https://github.com/CodeNKoffee/project-kumquat)**: An open-source veterinary science education roadmap engineered for field animal rescuers to close the information density gap without full clinical pathways. *Built in memory of a small ginger kitten.*
