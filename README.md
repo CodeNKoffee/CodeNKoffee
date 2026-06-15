@@ -116,26 +116,39 @@ I treat every domain—whether it’s low-latency data pipelines, sovereign LLM 
 <h3 align="left">Architect's Toolkit:</h3>
 
 <p align="left">
-
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,redux,firebase,supabase,postgres" />
-
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,go,rust,swift" alt="Languages" />
   <br><br>
-
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,go,rust,swift" />
-
+  <!-- Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,nodejs,fastapi,flask" alt="Frameworks" />
   <br><br>
-
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,ps,ai,apple" />
-
+  <!-- Infrastructure, DBs & Testing -->
+  <img src="https://skillicons.dev/icons?i=postgres,firebase,supabase,docker,git,npm,jest" alt="Infrastructure" />
+  <br><br>
+  <!-- Design & Platforms -->
+  <img src="https://skillicons.dev/icons?i=figma,ps,apple,linux" alt="Tools" />
+  <br><br>
+  <!-- Specialized Tools & Integrations -->
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Dodo_Payments-10B981?style=for-the-badge&logo=cashapp&logoColor=white" alt="Dodo Payments" />
+  <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth" />
+  <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Lightroom" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black" alt="Ollama" />
 </p>
+
+**Extended Arsenal:** React Native, ChakraUI, ROS, JUnit, PackShip CLI, Jira, Canva, Caido, Stock Exchange APIs, AI IDEs.
 
 ---
 
 ## 💡 Outlier Facts & Philosophies
 
+*   👨‍💻 **[Top GitHub Contributor in Egypt:](https://www.linkedin.com/posts/h4temsoliman_startups-revolut-github-ugcPost-7438977024733491201-mqzi?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADoAWG8B9rkNREwiPnr3Q73IzpfD-M0ZcJk)** Recognized publicly as one of the top 15 contributors in terms of commits and contributions.
 *   🏁 **Autonomous Racing:** Re-engineered localized navigation paths to secure a podium finish in Cluj-Napoca, Romania at IEEE Roboracer.
 *   📸 **Verified Competent:** Officially awarded an international diploma by **Icelandair** certifying that, out of 127,642 global entries, I am *definitely not the world's worst photographer*. It stays on the wall to prove the barrier to entry is lower than you think.
-*   💸 **Bounty Hunting:** Architected and engineered a YouTube visual canvas layout that won a quick **$500 design bounty** from Marc Lou.
+*   💸 **Bounty Hunting:** Paired up with [Salma Tarek Soliman](https://github.com/sal-tarek) to design and prototype a YouTube visual canvas layout that "could have" won a quick **$500 design bounty** from Marc Lou.
 *   🗺️ **Systems Over Boundaries:** Whether it is code execution, tactical military history, algorithmic trading networks, or high-intensity calisthenics, every single space is composed of patterns. Master the patterns, master the field.
 
 ---
